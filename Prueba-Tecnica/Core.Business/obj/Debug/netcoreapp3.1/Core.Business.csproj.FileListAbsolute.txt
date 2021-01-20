@@ -1,0 +1,28 @@
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.csprojAssemblyReference.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.AssemblyInfoInputs.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.AssemblyInfo.cs
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.csproj.CoreCompileInputs.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Business.deps.json
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Business.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Business.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Models.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.csproj.CopyComplete
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Business.deps.json
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Business.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Business.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\bin\Debug\netcoreapp3.1\Core.Models.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.csprojAssemblyReference.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.AssemblyInfoInputs.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.AssemblyInfo.cs
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.csproj.CoreCompileInputs.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.csproj.CopyComplete
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Business\obj\Debug\netcoreapp3.1\Core.Business.pdb

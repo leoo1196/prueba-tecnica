@@ -1,0 +1,146 @@
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.csprojAssemblyReference.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.AssemblyInfoInputs.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.AssemblyInfo.cs
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.csproj.CoreCompileInputs.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Business.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\IoC.Resolver.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Models.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\staticwebassets\Web.Api.StaticWebAssets.Manifest.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\staticwebassets\Web.Api.StaticWebAssets.xml
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web.Api.styles.css
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.RazorTargetAssemblyInfo.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.exe
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.deps.json
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.runtimeconfig.json
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.runtimeconfig.dev.json
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\IoC.Resolver.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Business.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.csproj.CopyComplete
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.genruntimeconfig.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.exe
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.deps.json
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.runtimeconfig.json
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.runtimeconfig.dev.json
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Web.Api.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Business.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\IoC.Resolver.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\IoC.Resolver.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Business.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Core.Models.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.csprojAssemblyReference.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.AssemblyInfoInputs.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.AssemblyInfo.cs
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.csproj.CoreCompileInputs.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\staticwebassets\Web.Api.StaticWebAssets.Manifest.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\staticwebassets\Web.Api.StaticWebAssets.xml
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web.Api.styles.css
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.RazorTargetAssemblyInfo.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.csproj.CopyComplete
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Web.Api\obj\Debug\netcoreapp3.1\Web.Api.genruntimeconfig.cache

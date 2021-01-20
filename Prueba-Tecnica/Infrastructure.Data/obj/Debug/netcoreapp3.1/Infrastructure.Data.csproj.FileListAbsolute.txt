@@ -1,0 +1,34 @@
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csprojAssemblyReference.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfo.cs
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.deps.json
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.runtimeconfig.json
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.runtimeconfig.dev.json
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Core.Models.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CopyComplete
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.genruntimeconfig.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.deps.json
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.runtimeconfig.json
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.runtimeconfig.dev.json
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\bin\Debug\netcoreapp3.1\Core.Models.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csprojAssemblyReference.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.AssemblyInfo.cs
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.csproj.CopyComplete
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Infrastructure.Data\obj\Debug\netcoreapp3.1\Infrastructure.Data.genruntimeconfig.cache

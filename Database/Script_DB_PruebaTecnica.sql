@@ -1,0 +1,190 @@
+USE [master]
+GO
+/****** Object:  Database [PruebaTecnica]    Script Date: 19/01/2021 23:57:57 ******/
+CREATE DATABASE [PruebaTecnica]
+ CONTAINMENT = NONE
+ ON  PRIMARY 
+( NAME = N'PruebaTecnica', FILENAME = N'F:\Programas\SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\PruebaTecnica.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB )
+ LOG ON 
+( NAME = N'PruebaTecnica_log', FILENAME = N'F:\Programas\SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\PruebaTecnica_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 65536KB )
+ WITH CATALOG_COLLATION = DATABASE_DEFAULT
+GO
+ALTER DATABASE [PruebaTecnica] SET COMPATIBILITY_LEVEL = 150
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [PruebaTecnica].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [PruebaTecnica] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET AUTO_CLOSE ON 
+GO
+ALTER DATABASE [PruebaTecnica] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [PruebaTecnica] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [PruebaTecnica] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET  ENABLE_BROKER 
+GO
+ALTER DATABASE [PruebaTecnica] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [PruebaTecnica] SET READ_COMMITTED_SNAPSHOT ON 
+GO
+ALTER DATABASE [PruebaTecnica] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET RECOVERY SIMPLE 
+GO
+ALTER DATABASE [PruebaTecnica] SET  MULTI_USER 
+GO
+ALTER DATABASE [PruebaTecnica] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [PruebaTecnica] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [PruebaTecnica] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [PruebaTecnica] SET TARGET_RECOVERY_TIME = 60 SECONDS 
+GO
+ALTER DATABASE [PruebaTecnica] SET DELAYED_DURABILITY = DISABLED 
+GO
+ALTER DATABASE [PruebaTecnica] SET ACCELERATED_DATABASE_RECOVERY = OFF  
+GO
+ALTER DATABASE [PruebaTecnica] SET QUERY_STORE = OFF
+GO
+USE [PruebaTecnica]
+GO
+/****** Object:  Table [dbo].[__EFMigrationsHistory]    Script Date: 19/01/2021 23:57:57 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[__EFMigrationsHistory](
+	[MigrationId] [nvarchar](150) NOT NULL,
+	[ProductVersion] [nvarchar](32) NOT NULL,
+ CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY CLUSTERED 
+(
+	[MigrationId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Reservations]    Script Date: 19/01/2021 23:57:57 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Reservations](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[NumberOfAssistants] [int] NOT NULL,
+	[UseProjector] [bit] NOT NULL,
+	[UseBlackboard] [bit] NOT NULL,
+	[UseInternet] [bit] NOT NULL,
+	[IdRoom] [int] NULL,
+	[IdReservationState] [int] NOT NULL,
+	[CreationDate] [datetime2](7) NOT NULL,
+ CONSTRAINT [PK_Reservations] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[ReservationStates]    Script Date: 19/01/2021 23:57:57 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[ReservationStates](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Description] [varchar](50) NULL,
+ CONSTRAINT [PK_ReservationStates] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Rooms]    Script Date: 19/01/2021 23:57:57 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Rooms](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Name] [varchar](200) NOT NULL,
+	[Capacity] [int] NOT NULL,
+	[HasProjector] [bit] NOT NULL,
+	[HasBlackboard] [bit] NOT NULL,
+	[HasInternet] [bit] NOT NULL,
+	[IsReserved] [bit] NOT NULL,
+	[CreationDate] [datetime2](7) NOT NULL,
+ CONSTRAINT [PK_Rooms] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20210117022210_InitialCreate', N'5.0.2')
+GO
+SET IDENTITY_INSERT [dbo].[ReservationStates] ON 
+GO
+INSERT [dbo].[ReservationStates] ([Id], [Description]) VALUES (1, N'Pendiente')
+GO
+INSERT [dbo].[ReservationStates] ([Id], [Description]) VALUES (2, N'Cancelada')
+GO
+INSERT [dbo].[ReservationStates] ([Id], [Description]) VALUES (3, N'Finalizada')
+GO
+SET IDENTITY_INSERT [dbo].[ReservationStates] OFF
+GO
+/****** Object:  Index [IX_Reservations_IdReservationState]    Script Date: 19/01/2021 23:57:57 ******/
+CREATE NONCLUSTERED INDEX [IX_Reservations_IdReservationState] ON [dbo].[Reservations]
+(
+	[IdReservationState] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+GO
+/****** Object:  Index [IX_Reservations_IdRoom]    Script Date: 19/01/2021 23:57:57 ******/
+CREATE NONCLUSTERED INDEX [IX_Reservations_IdRoom] ON [dbo].[Reservations]
+(
+	[IdRoom] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[Reservations]  WITH CHECK ADD  CONSTRAINT [FK_Reservations_ReservationStates_IdReservationState] FOREIGN KEY([IdReservationState])
+REFERENCES [dbo].[ReservationStates] ([Id])
+ON DELETE CASCADE
+GO
+ALTER TABLE [dbo].[Reservations] CHECK CONSTRAINT [FK_Reservations_ReservationStates_IdReservationState]
+GO
+ALTER TABLE [dbo].[Reservations]  WITH CHECK ADD  CONSTRAINT [FK_Reservations_Rooms_IdRoom] FOREIGN KEY([IdRoom])
+REFERENCES [dbo].[Rooms] ([Id])
+ON DELETE SET NULL
+GO
+ALTER TABLE [dbo].[Reservations] CHECK CONSTRAINT [FK_Reservations_Rooms_IdRoom]
+GO
+USE [master]
+GO
+ALTER DATABASE [PruebaTecnica] SET  READ_WRITE 
+GO

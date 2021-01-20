@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Core.Business/1.0.0": {
+        "dependencies": {
+          "Core.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Core.Business.dll": {}
+        }
+      },
+      "Core.Contracts/1.0.0": {
+        "dependencies": {
+          "Core.Models": "1.0.0"
+        },
+        "runtime": {
+          "Core.Contracts.dll": {}
+        }
+      },
+      "Core.Models/1.0.0": {
+        "runtime": {
+          "Core.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

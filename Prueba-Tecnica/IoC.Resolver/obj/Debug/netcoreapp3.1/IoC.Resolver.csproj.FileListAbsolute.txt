@@ -1,0 +1,36 @@
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.csprojAssemblyReference.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.AssemblyInfoInputs.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.AssemblyInfo.cs
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.csproj.CoreCompileInputs.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Business.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Models.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\IoC.Resolver.deps.json
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\IoC.Resolver.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\IoC.Resolver.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Business.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.csproj.CopyComplete
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\IoC.Resolver.deps.json
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\IoC.Resolver.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\IoC.Resolver.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Business.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Contracts.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Infrastructure.Data.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Business.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Contracts.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Infrastructure.Data.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\bin\Debug\netcoreapp3.1\Core.Models.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.csprojAssemblyReference.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.AssemblyInfoInputs.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.AssemblyInfo.cs
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.csproj.CoreCompileInputs.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.csproj.CopyComplete
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\IoC.Resolver\obj\Debug\netcoreapp3.1\IoC.Resolver.pdb

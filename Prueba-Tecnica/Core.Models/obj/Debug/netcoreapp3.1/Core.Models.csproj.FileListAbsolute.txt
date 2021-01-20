@@ -1,0 +1,18 @@
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Models\bin\Debug\netcoreapp3.1\Core.Models.deps.json
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Models\bin\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Models\bin\Debug\netcoreapp3.1\Core.Models.pdb
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.csprojAssemblyReference.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.AssemblyInfoInputs.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.AssemblyInfo.cs
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.csproj.CoreCompileInputs.cache
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Practicas en Visual Studio\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Models\bin\Debug\netcoreapp3.1\Core.Models.deps.json
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Models\bin\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Models\bin\Debug\netcoreapp3.1\Core.Models.pdb
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.csprojAssemblyReference.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.AssemblyInfoInputs.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.AssemblyInfo.cs
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.csproj.CoreCompileInputs.cache
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.dll
+D:\Documentos\Repos\prueba-tecnica\Prueba-Tecnica\Core.Models\obj\Debug\netcoreapp3.1\Core.Models.pdb
